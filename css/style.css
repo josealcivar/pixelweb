@@ -1302,11 +1302,11 @@ input[type="text"]:focus, input[type="password"]:focus, input[type="email"]:focu
 
 } */
 
-#service .section-heading {
+.pricing-plane-area .section-heading {
   text-align: center;
 }
 
-#service .section-heading h2 {
+.pricing-plane-area .section-heading h2 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 45px;
