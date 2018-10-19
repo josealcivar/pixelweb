@@ -11,9 +11,10 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-size: normal;
-  font-smooth: always;
+  /* font-smoothing: always;
   -webkit-font-smoothing: antialiased;
-  -moz-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased; */
+
 }
 
 a {
